@@ -25,10 +25,24 @@
 #container a {
   text-decoration: none;
 }
+ion-card-content{
+
+  background-color: #e25757;
+}
+
+ion-title{
+
+  color: #f85151;
+  background-color: #ffea74;
+}
+b{
+
+  color:rgb(38, 37, 92);
+}
 
 h1{
 
-  color:red;
+  color:rgb(25, 47, 65);
 }
 h2{
 
@@ -37,6 +51,9 @@ h2{
 }
 h3{
 
-  color: #464343;
+  color: #000000;
   
+}
+ion-grid{
+  background-color: #202da0;
 }

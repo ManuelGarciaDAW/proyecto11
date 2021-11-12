@@ -8,7 +8,8 @@ import { HttpClient } from '@angular/common/http';
 })
 export class HomePage {
 
-  personas:any;
+  personas : any;
+  filtro : string = '';
 
   constructor(private httpClient: HttpClient) {
 
